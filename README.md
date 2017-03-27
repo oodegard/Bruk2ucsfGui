@@ -1,2 +1,5 @@
 # Bruk2ucsfGui
- A GUI for NMR Bruker fils that uses bruk2UCSF to convert to UCSF files
+ A super simple GUI that uses bruk2UCSF.exe to convert to Bruker files to UCSF files.
+ 
+ "Sometimes you don't want to open a cmd..."
+ 
