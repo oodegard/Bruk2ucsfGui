@@ -1,0 +1,9 @@
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\bin\Debug\Bruk2ucsf.exe.config
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.csprojResolveAssemblyReference.cache
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.Form1.resources
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.Properties.Resources.resources
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.csproj.GenerateResource.Cache
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\bin\Debug\Bruk2ucsf.exe
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\bin\Debug\Bruk2ucsf.pdb
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.exe
+c:\users\mortenvik\documents\visual studio 2013\Projects\Oyvind\Bruk2ucsf\Bruk2ucsf\obj\Debug\Bruk2ucsf.pdb
